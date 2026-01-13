@@ -6,6 +6,7 @@
 ## 2026 List
 |  | 독서일자 | 제목 | 저자 | 카테고리 |
 |--|--------|------|---------|----------|
+| <img width="95.5" height="131.5" alt="image" src="https://an2-img.amz.wtchn.net/image/v2/AEY_Kp7_IxmtBNtqnXMEmA.webp?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk5Ea3dlRGN3TUhFNE1DSmRMQ0p3SWpvaUwzWXlMM04wYjNKbEwySnZiMnN2TVRZM01qYzRNalF6T0RrNU56UTBNRGt5T1NKOS5sTUNIRnFWUnNpMVo5ekluTmdkTGFUM0JrY2Rra1dMNVpySlhIejd3MWZn" /> | 2026-01-01 <br/> ~ 2026-01-12 | [케이크와 맥주](Fiction//케이크와_맥주.md) | 서머싯 몸 | 소설 |
 
 <br>
 
